@@ -1,0 +1,202 @@
+[
+    {
+        "number": 1,
+        "title": "Skazani na Shawshank",
+        "title_eng": "The Shawshank Redemption",
+        "year": "1994",
+        "rate": "8,77",
+        "genre": "Dramat"
+    },
+    {
+        "number": 2,
+        "title": "Zielona mila",
+        "title_eng": "The Green Mile",
+        "year": "1999",
+        "rate": "8,60",
+        "genre": "Dramat"
+    },
+    {
+        "number": 3,
+        "title": "Nietykalni",
+        "title_eng": "Intouchables",
+        "year": "2011",
+        "rate": "8,60",
+        "genre": "Biograficzny"
+    },
+    {
+        "number": 4,
+        "title": "Ojciec chrzestny",
+        "title_eng": "The Godfather",
+        "year": "1972",
+        "rate": "8,59",
+        "genre": "Dramat"
+    },
+    {
+        "number": 5,
+        "title": "Dwunastu gniewnych ludzi",
+        "title_eng": "12 Angry Men",
+        "year": "1957",
+        "rate": "8,58",
+        "genre": "Dramat s\u0105dowy"
+    },
+    {
+        "number": 6,
+        "title": "Forrest Gump",
+        "title_eng": "",
+        "year": "1994",
+        "rate": "8,52",
+        "genre": "Dramat"
+    },
+    {
+        "number": 7,
+        "title": "Lot nad kuku\u0142czym gniazdem",
+        "title_eng": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "rate": "8,42",
+        "genre": "Dramat"
+    },
+    {
+        "number": 8,
+        "title": "Ojciec chrzestny II",
+        "title_eng": "The Godfather: Part II",
+        "year": "1974",
+        "rate": "8,38",
+        "genre": "Dramat"
+    },
+    {
+        "number": 9,
+        "title": "W\u0142adca Pier\u015bcieni: Powr\u00f3t kr\u00f3la",
+        "title_eng": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "rate": "8,35",
+        "genre": "Fantasy"
+    },
+    {
+        "number": 10,
+        "title": "Lista Schindlera",
+        "title_eng": "Schindler's List",
+        "year": "1993",
+        "rate": "8,33",
+        "genre": "Dramat"
+    },
+    {
+        "number": 11,
+        "title": "Pulp Fiction",
+        "title_eng": "",
+        "year": "1994",
+        "rate": "8,31",
+        "genre": "Gangsterski"
+    },
+    {
+        "number": 12,
+        "title": "\u017bycie jest pi\u0119kne",
+        "title_eng": "La vita \u00e8 bella",
+        "year": "1997",
+        "rate": "8,29",
+        "genre": "Dramat"
+    },
+    {
+        "number": 13,
+        "title": "W\u0142adca Pier\u015bcieni: Dwie wie\u017ce",
+        "title_eng": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "rate": "8,27",
+        "genre": "Fantasy"
+    },
+    {
+        "number": 14,
+        "title": "Siedem",
+        "title_eng": "Se7en",
+        "year": "1995",
+        "rate": "8,27",
+        "genre": "Krymina\u0142"
+    },
+    {
+        "number": 15,
+        "title": "Podziemny kr\u0105g",
+        "title_eng": "Fight Club",
+        "year": "1999",
+        "rate": "8,25",
+        "genre": "Thriller"
+    },
+    {
+        "number": 16,
+        "title": "Ch\u0142opcy z ferajny",
+        "title_eng": "Goodfellas",
+        "year": "1990",
+        "rate": "8,24",
+        "genre": "Dramat"
+    },
+    {
+        "number": 17,
+        "title": "Pianista",
+        "title_eng": "The Pianist",
+        "year": "2002",
+        "rate": "8,23",
+        "genre": "Biograficzny"
+    },
+    {
+        "number": 18,
+        "title": "Milczenie owiec",
+        "title_eng": "The Silence of the Lambs",
+        "year": "1991",
+        "rate": "8,21",
+        "genre": "Thriller"
+    },
+    {
+        "number": 19,
+        "title": "Django",
+        "title_eng": "Django Unchained",
+        "year": "2012",
+        "rate": "8,21",
+        "genre": "Western"
+    },
+    {
+        "number": 20,
+        "title": "Pi\u0119kny umys\u0142",
+        "title_eng": "A Beautiful Mind",
+        "year": "2001",
+        "rate": "8,21",
+        "genre": "Biograficzny"
+    },
+    {
+        "number": 21,
+        "title": "Incepcja",
+        "title_eng": "Inception",
+        "year": "2010",
+        "rate": "8,21",
+        "genre": "Surrealistyczny"
+    },
+    {
+        "number": 22,
+        "title": "Joker",
+        "title_eng": "",
+        "year": "2019",
+        "rate": "8,21",
+        "genre": "Dramat"
+    },
+    {
+        "number": 23,
+        "title": "Kr\u00f3l Lew",
+        "title_eng": "The Lion King",
+        "year": "1994",
+        "rate": "8,21",
+        "genre": "Animacja"
+    },
+    {
+        "number": 24,
+        "title": "Gran Torino",
+        "title_eng": "",
+        "year": "2008",
+        "rate": "8,16",
+        "genre": "Dramat"
+    },
+    {
+        "number": 25,
+        "title": "Cz\u0142owiek z blizn\u0105",
+        "title_eng": "Scarface",
+        "year": "1983",
+        "rate": "8,16",
+        "genre": "Dramat"
+    }
+]
