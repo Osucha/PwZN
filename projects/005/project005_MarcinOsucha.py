@@ -1,6 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--file_name", type=str, default="output", help="name of the output file")
+args = parser.parse_args()
 
 url = 'https://www.filmweb.pl/ranking/film'
 res = requests.get(url)
@@ -45,7 +50,10 @@ for movie in movies:
 
 movies_list.sort(key=lambda x: x['number'])
 
-print(json.dumps(movies_list, indent=4, ensure_ascii=False))
+# print(json.dumps(movies_list, indent=4, ensure_ascii=False))
 
-with open('projects/005/movies.json', 'w') as file:
+file_name = 'projects/005/' + args.file_name + '.json'
+print(f'Saving data to {file_name}')
+
+with open(file_name, 'w') as file:
     json.dump(movies_list, file, indent=4)
